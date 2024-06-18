@@ -1,0 +1,28 @@
+[debug] [2024-06-18T17:49:19.826Z] ----------------------------------------------------------------------
+[debug] [2024-06-18T17:49:19.829Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Asus\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-06-18T17:49:19.829Z] CLI Version:   13.11.2
+[debug] [2024-06-18T17:49:19.829Z] Platform:      win32
+[debug] [2024-06-18T17:49:19.829Z] Node Version:  v20.14.0
+[debug] [2024-06-18T17:49:19.830Z] Time:          Tue Jun 18 2024 12:49:19 GMT-0500 (hora estándar de Colombia)
+[debug] [2024-06-18T17:49:19.830Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-06-18T17:49:19.835Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-06-18T17:49:19.836Z] > authorizing via signed-in user (labaquero70@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Asus\Documents\programacion google\fire base\cloud fire store  prueba\friendlyeats-web-master
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
